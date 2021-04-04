@@ -80,3 +80,7 @@ iOSInjectionProject/
 ### Objective-C Patch ###
 
 # End of https://www.toptal.com/developers/gitignore/api/objective-c,executable
+
+.DS_Store
+tp1_1
+tp1_2
